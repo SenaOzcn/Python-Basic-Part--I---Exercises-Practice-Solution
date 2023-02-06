@@ -23,6 +23,8 @@ Twinkle, twinkle, little star,
 
 3. Write a Python program to display the current date and time.
 
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_3_with_solution.py)
+
 Sample Output :
 ```
 Current date and time :
