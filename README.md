@@ -14,7 +14,7 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 ```
-[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/exercise_1_with_solution.py)
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/tree/MIT-License/Solutions)
 
 2. Write a Python program to find out what version of Python you are using.
 
