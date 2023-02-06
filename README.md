@@ -39,6 +39,8 @@ r = 1.1
 Area = 3.8013271108436504
 ````
 
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_4_with_solution.py)
+
 5. Write a Python program that accepts the user's first and last name and prints them in reverse order with a space between them.
 
 6. Write a Python program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
