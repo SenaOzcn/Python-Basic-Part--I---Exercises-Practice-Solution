@@ -18,6 +18,9 @@ Twinkle, twinkle, little star,
 
 2. Write a Python program to find out what version of Python you are using.
 
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_2_with_solution.py)
+
+
 3. Write a Python program to display the current date and time.
 
 Sample Output :
