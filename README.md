@@ -53,3 +53,5 @@ Output :
 List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23')
 ```
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_6_with_solution.py)
