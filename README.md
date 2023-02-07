@@ -64,3 +64,7 @@ Output : java
 ````
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_7_with_solution.py)
+
+8. Write a Python program to display the first and last colors from the following list.
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_8_with_solution.py)
