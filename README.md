@@ -55,3 +55,12 @@ Tuple : ('3', ' 5', ' 7', ' 23')
 ```
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_6_with_solution.py)
+
+7. Write a Python program that accepts a filename from the user and prints the extension of the file. Go to the editor
+
+```
+Sample filename : abc.java
+Output : java
+````
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_7_with_solution.py)
