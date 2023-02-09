@@ -77,3 +77,12 @@ Sample Output : The examination will start from : 11 / 12 / 2014
 ```
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_9_with_solution.py)
+
+10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+```
+Sample value of n is 5
+Expected Result : 615
+```
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_10_with_solution.py)
