@@ -68,3 +68,12 @@ Output : java
 8. Write a Python program to display the first and last colors from the following list.
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_8_with_solution.py)
+
+9. Write a Python program to display the examination schedule. (extract the date from exam_st_date).
+
+```
+exam_st_date = (11, 12, 2014)
+Sample Output : The examination will start from : 11 / 12 / 2014
+```
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_9_with_solution.py)
