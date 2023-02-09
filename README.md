@@ -86,3 +86,14 @@ Expected Result : 615
 ```
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_10_with_solution.py)
+
+11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+
+```
+Sample function : abs()
+Expected Result :
+abs(number) -> number
+Return the absolute value of the argument.
+```
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_11_with_solution.py)
