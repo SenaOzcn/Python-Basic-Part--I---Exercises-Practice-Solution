@@ -115,3 +115,12 @@ heredoc string --------> example
 ```
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_13_with_solution.py)
+
+14. Write a Python program to calculate the number of days between two dates.
+
+```
+Sample dates : (2014, 7, 2), (2014, 7, 11)
+Expected output : 9 days
+```
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_14_with_solution.py)
