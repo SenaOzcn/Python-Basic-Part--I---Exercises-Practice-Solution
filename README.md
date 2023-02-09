@@ -97,3 +97,8 @@ Return the absolute value of the argument.
 ```
 
 [Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_11_with_solution.py)
+
+12. Write a Python program that prints the calendar for a given month and year.
+Note : Use 'calendar' module.
+
+[Click me to see the sample solution](https://github.com/SenaOzcn/Python-Basic-Part--I---Exercises-Practice-Solution/blob/MIT-License/Solutions/exercise_12_with_solution.py)
